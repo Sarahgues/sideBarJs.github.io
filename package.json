@@ -1,0 +1,21 @@
+{
+    "name": "Cours Javascript",
+    "version": "1.0.0",
+    "description": "Avec : \r * Openclassrooms\r * From Scratch\r * ,
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "sass --watch ./main.scss:./style.css",
+        "bs": "browser-sync start --proxy localhost/**  --files '**/*' --no-notify"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sarahgues/JavascriptMiniProjet.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sarahgues/JavascriptMiniProjet/issues"
+    },
+    "homepage": "https://github.com/Sarahgues/JavascriptMiniProjete#readme"
+}
